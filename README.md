@@ -9,6 +9,11 @@ Used for creating web servers.
 -Socket.io: 
 A library in NodeJS that enables real-time, bidirectional and event-based communication between a web browser and a web server.
 
+-Xirsys: 
+Used for WebRTC hosting
+
+
+
 
 # Getting Started
 - Run `npm ci`
