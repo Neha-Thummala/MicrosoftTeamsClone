@@ -37,7 +37,5 @@ Used for WebRTC hosting
 You can test at "https://boiling-woodland-73069.herokuapp.com/"
 
 
-# Note
-You can create a free xirsys account and use their free ice server. You can replace the one used with your own at `src/assets/js/helpers.js`, function `getIceServer()`. 
 
 
